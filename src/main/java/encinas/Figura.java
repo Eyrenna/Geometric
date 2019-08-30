@@ -4,7 +4,7 @@ public abstract class Figura {
 
     //PROPIEDADES
 
-    public String name;
+    public String name = null;
 
     //CONSTRUCTOR
 
